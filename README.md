@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josue Nitro</h1>
+<h1 align="center">Hi 👋, I'm Zegi</h1>
 <h3 align="center">A passionate frontend/backend Android Developer from Philippines</h3>
 
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
