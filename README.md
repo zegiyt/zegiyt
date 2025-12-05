@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zegiyt&label=Profile%20views&color=0e75b6&style=flat" alt="zegiyt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jcnitrokami" target="blank"><img src="https://img.shields.io/twitter/follow/jcnitrokami?logo=twitter&style=for-the-badge" alt="jcnitrokami" /></a> </p>
+<p align="left"> <a href="https://x.com/syncro_tec78901" target="blank"><img src="https://img.shields.io/twitter/follow/jcnitrokami?logo=twitter&style=for-the-badge" alt="Zegi" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
